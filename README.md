@@ -1,6 +1,4 @@
 # amazingproject3
 
-bad code sdfsdfsdsf
-New branch making changes lalala
-new branch stuff here
-amazing new branch code
+This is a legit readme for P3
+Please accept this Gabe
