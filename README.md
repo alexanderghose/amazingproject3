@@ -1,3 +1,4 @@
 # amazingproject3
 
-bad code sdfsdfsdsf
+This is a legit readme for P3
+Please accept this Gabe
